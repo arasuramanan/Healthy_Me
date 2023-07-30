@@ -60,7 +60,7 @@ const Footer = () => {
           </div>
         </div>
         <span className='notice'>
-          This website is for educational purpose only
+          
         </span>
       </div>
     </section>
